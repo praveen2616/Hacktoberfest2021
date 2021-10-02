@@ -10,3 +10,4 @@
 | Khushboo Arora       | [@khushboo0801](https://github.com/khushboo0801)              |         1        |
 | Fikri Khairul Shaleh | [@fikriks](https://github.com/fikriks)                        |         1        |
 | Amrisha Pandey       | [@amrisha27](https://github.com/amrisha27)                    |         1        |
+| Praveen Mishra       | [@praveen2616](https://github.com/praveen2616)                |         1        |
